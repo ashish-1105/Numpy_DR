@@ -16,8 +16,8 @@ import matplotlib.pyplot as plt
 # In[2]:
 
 
-data = pd.read_csv("C:/Users/ashis/Downloads/archive/train.csv")
-data1 = pd.read_csv("C://Users/ashis/Downloads/test/test.csv")
+data = pd.read_csv("Train data goes here")
+data1 = pd.read_csv("Test data goes here")
 
 
 # # Pre-processing data
